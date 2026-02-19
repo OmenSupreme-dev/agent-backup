@@ -1,0 +1,4 @@
+.env             # Prevents your API keys from being backed up
+__pycache__/     # Python temporary files
+*.log            # Large log files that agents might create
+.DS_Store        # System junk (if you ever move to Mac)
